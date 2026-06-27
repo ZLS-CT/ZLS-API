@@ -46,10 +46,6 @@ afterEvaluate {
             }
         }
         into(outputDir)
-
-        if (project.platform.mcVersion == 260200) {
-            into(file("${System.getenv("APPDATA")}/ModrinthApp/profiles/Test ZLS 26.2/mods"))
-        }
     }
 
     tasks.named("build") {
