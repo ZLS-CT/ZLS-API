@@ -13,11 +13,6 @@
         "issues": "https://github.com/ZLS-CT/ZLS-API/issues"
     },
     "environment": "client",
-    "entrypoints": {
-        "preLaunch": [
-            "com.zephy.zlsapi.PreLaunch"
-        ]
-    },
     "depends": {
         "fabricloader": ">=0.18.0",
         "fabric-api": ">=$min_fabric_api_version",

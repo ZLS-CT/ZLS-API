@@ -5,7 +5,6 @@ plugins {
     id("gg.essential.defaults")
 }
 
-group = "com.zephy.zlsapi"
 version = "1.0.0"
 
 tasks {
