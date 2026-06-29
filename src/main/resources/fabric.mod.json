@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "id": "zlsapi",
+    "id": "zls-api",
     "version": "${version}",
     "name": "ZLS-API",
     "description": "Enables API entitlement for ZLS.",

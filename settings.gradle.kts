@@ -10,7 +10,7 @@ pluginManagement {
 
 includeBuild("../essential-gradle-toolkit")
 
-rootProject.name = "ZLS-API-Entitlement"
+rootProject.name = "ZLS-API"
 rootProject.buildFileName = "root.gradle.kts"
 
 val versionList = listOf(
